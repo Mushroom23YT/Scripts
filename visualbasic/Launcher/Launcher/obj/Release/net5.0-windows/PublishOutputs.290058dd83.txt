@@ -1,0 +1,5 @@
+C:\Users\Braswell Elijah\Desktop\Launcher.exe
+C:\Users\Braswell Elijah\Desktop\Launcher.dll
+C:\Users\Braswell Elijah\Desktop\Launcher.deps.json
+C:\Users\Braswell Elijah\Desktop\Launcher.runtimeconfig.json
+C:\Users\Braswell Elijah\Desktop\Launcher.pdb
